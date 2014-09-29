@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="ear" name="j-59-ear:ear">
-    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/j-59-ear/target</output-path>
-    <root id="archive" name="j-59-ear-2.13-SNAPSHOT.ear">
-      <element id="artifact" artifact-name="j-59-ear:ear exploded" />
-    </root>
-  </artifact>
-</component>

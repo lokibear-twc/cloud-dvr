@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="jersey-ejb:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/examples/jersey-ejb/target</output-path>
-    <root id="archive" name="jersey-ejb.war">
-      <element id="artifact" artifact-name="jersey-ejb:war exploded" />
-    </root>
-  </artifact>
-</component>

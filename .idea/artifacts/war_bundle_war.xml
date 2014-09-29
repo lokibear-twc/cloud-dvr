@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="war-bundle:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/war-bundle/target</output-path>
-    <root id="archive" name="project.war">
-      <element id="artifact" artifact-name="war-bundle:war exploded" />
-    </root>
-  </artifact>
-</component>

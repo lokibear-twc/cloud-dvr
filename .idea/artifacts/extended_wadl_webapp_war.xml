@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="extended-wadl-webapp:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/examples/extended-wadl-webapp/target</output-path>
-    <root id="archive" name="extended-wadl-webapp.war">
-      <element id="artifact" artifact-name="extended-wadl-webapp:war exploded" />
-    </root>
-  </artifact>
-</component>

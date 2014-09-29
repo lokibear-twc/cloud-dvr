@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="sse-item-store-webapp:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/examples/sse-item-store-webapp/target</output-path>
-    <root id="archive" name="sse-item-store-webapp.war">
-      <element id="artifact" artifact-name="sse-item-store-webapp:war exploded" />
-    </root>
-  </artifact>
-</component>

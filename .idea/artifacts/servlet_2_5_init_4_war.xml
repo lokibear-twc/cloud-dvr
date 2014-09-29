@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="servlet-2.5-init-4:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-4/target</output-path>
-    <root id="archive" name="servlet-2.5-init-4-2.13-SNAPSHOT.war">
-      <element id="artifact" artifact-name="servlet-2.5-init-4:war exploded" />
-    </root>
-  </artifact>
-</component>

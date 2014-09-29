@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="cdi-with-jersey-injection-webapp:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-with-jersey-injection-webapp/target</output-path>
-    <root id="archive" name="cdi-with-jersey-injection-webapp.war">
-      <element id="artifact" artifact-name="cdi-with-jersey-injection-webapp:war exploded" />
-    </root>
-  </artifact>
-</component>

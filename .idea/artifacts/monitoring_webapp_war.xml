@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="monitoring-webapp:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/examples/monitoring-webapp/target</output-path>
-    <root id="archive" name="monitoring-webapp.war">
-      <element id="artifact" artifact-name="monitoring-webapp:war exploded" />
-    </root>
-  </artifact>
-</component>

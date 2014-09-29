@@ -1,9 +1,0 @@
-<component name="CopyrightManager">
-  <copyright>
-    <option name="notice" value="/*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&#10;* COPYRIGHT 2014.  ALL RIGHTS RESERVED.  THIS MODULE CONTAINS&#10;* TIME WARNER CABLE CONFIDENTIAL AND PROPRIETARY INFORMATION.&#10;* THE INFORMATION CONTAINED HEREIN IS GOVERNED BY LICENSE AND&#10;* SHALL NOT BE DISTRIBUTED OR COPIED WITHOUT WRITTEN PERMISSION&#10;* FROM TIME WARNER CABLE.&#10;*&#10;*&#10;* File:          %\f&#10;* Created:       %\d&#10;*&#10;*&#10;*-------------------------------------------------------------&#10;* PERFORCE&#10;*&#10;* Last Revision: &amp;#36;&#10;* Last Checkin:  &amp;#36;&#10;*&#10;*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/" />
-    <option name="keyword" value="COPYRIGHT" />
-    <option name="allowReplaceKeyword" value="" />
-    <option name="myName" value="TWC" />
-    <option name="myLocal" value="true" />
-  </copyright>
-</component>

@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="shortener-webapp:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/examples/shortener-webapp/target</output-path>
-    <root id="archive" name="shortener-webapp.war">
-      <element id="artifact" artifact-name="shortener-webapp:war exploded" />
-    </root>
-  </artifact>
-</component>

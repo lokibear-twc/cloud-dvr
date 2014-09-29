@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="security-digest:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/security-digest/target</output-path>
-    <root id="archive" name="security-digest-2.13-SNAPSHOT.war">
-      <element id="artifact" artifact-name="security-digest:war exploded" />
-    </root>
-  </artifact>
-</component>

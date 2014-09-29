@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="bookstore-webapp:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/examples/bookstore-webapp/target</output-path>
-    <root id="archive" name="bookstore-webapp.war">
-      <element id="artifact" artifact-name="bookstore-webapp:war exploded" />
-    </root>
-  </artifact>
-</component>

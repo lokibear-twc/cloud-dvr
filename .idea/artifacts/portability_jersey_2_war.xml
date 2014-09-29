@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="portability-jersey-2:war">
-    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/portability-jersey-2/target</output-path>
-    <root id="archive" name="portability-jersey-2-2.13-SNAPSHOT.war">
-      <element id="artifact" artifact-name="portability-jersey-2:war exploded" />
-    </root>
-  </artifact>
-</component>
