@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="j-59-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/j-59-ear/target/j-59-ear-2.13-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="j-59-ear/javaeeApplication/JavaEE" />
+      <element id="archive" name="j-59-cdi-war-2.13-SNAPSHOT.war">
+        <element id="artifact" artifact-name="j-59-cdi-war:war exploded" />
+      </element>
+      <element id="archive" name="j-59-ejb-lib-2.13-SNAPSHOT.jar">
+        <element id="module-output" name="j-59-ejb-lib" />
+      </element>
+    </root>
+  </artifact>
+</component>

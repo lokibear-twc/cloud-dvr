@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="portability-jersey-1:war exploded">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/portability-jersey-1/target/portability-jersey-1-2.13-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="portability-jersey-1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="portability-jersey-1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="jersey-servlet-portability-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-servlet-portability" />
+          </element>
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-servlet:1.17" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-server:1.17" />
+          <element id="library" level="project" name="Maven: asm:asm:3.1" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-core:1.17" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

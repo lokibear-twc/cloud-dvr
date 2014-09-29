@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cloud-dvr:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cdvr.war">
+      <element id="artifact" artifact-name="cloud-dvr:war exploded" />
+    </root>
+  </artifact>
+</component>

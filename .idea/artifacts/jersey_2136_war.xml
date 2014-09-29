@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jersey-2136:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2136/target</output-path>
+    <root id="archive" name="jersey-2136-2.13-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jersey-2136:war exploded" />
+    </root>
+  </artifact>
+</component>

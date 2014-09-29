@@ -1,0 +1,40 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jersey-2551:war exploded">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2551/target/jersey-2551-2.13-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jersey-2551/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jersey-2551" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="jersey-container-servlet-core-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-container-servlet-core" />
+          </element>
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:javax.inject:2.3.0-b10" />
+          <element id="archive" name="jersey-common-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-common" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.ws.rs:javax.ws.rs-api:2.0.1" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="archive" name="jersey-guava-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-guava" />
+          </element>
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-api:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-utils:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:aopalliance-repackaged:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-locator:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.18.1-GA" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:osgi-resource-locator:1.0.1" />
+          <element id="archive" name="jersey-server-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-server" />
+          </element>
+          <element id="archive" name="jersey-client-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-client" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

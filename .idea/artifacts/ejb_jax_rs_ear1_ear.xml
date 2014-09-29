@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="ejb-jax-rs-ear1:ear">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-jax-rs-ear1/target</output-path>
+    <root id="archive" name="ejb-jax-rs-ear1-2.13-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="ejb-jax-rs-ear1:ear exploded" />
+    </root>
+  </artifact>
+</component>

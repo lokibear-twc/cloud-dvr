@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookmark-em:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/bookmark-em/target</output-path>
+    <root id="archive" name="bookmark-em.war">
+      <element id="artifact" artifact-name="bookmark-em:war exploded" />
+    </root>
+  </artifact>
+</component>

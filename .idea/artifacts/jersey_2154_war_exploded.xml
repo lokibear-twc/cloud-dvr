@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jersey-2154:war exploded">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2154/target/jersey-2154</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jersey-2154/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jersey-2154" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

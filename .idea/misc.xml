@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-jax-rs-ear1" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/j-59-ear" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/bean-validation-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/bookmark" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/bookmark-em" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/bookstore-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/cdi-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/extended-wadl-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/flight-mgmt-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/freemarker-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/helloworld-spring-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/helloworld-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/https-server-glassfish" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/jersey-ejb" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/json-processing-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/managed-beans-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/managed-client-simple-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/managed-client-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/monitoring-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/multipart-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/oauth2-client-google-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/war-bundle" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/rx-client-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/server-async-standalone/webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/servlet3-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/shortener-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/examples/sse-item-store-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-ejb-test-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-multipart-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-test-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-with-jersey-injection-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-jax-rs-web1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-test-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/j-59-cdi-war" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1107" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1223" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1604" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1667" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1829" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1928" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1960" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1964" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2031" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2136" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2137" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2154" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2160" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2164" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2167" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2176" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2184" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2255" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2322" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2335" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2421" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2551" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-780" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/portability-jersey-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/portability-jersey-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/security-digest" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-autodiscovery-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-autodiscovery-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-inflector-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-3" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-4" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-5" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-6" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-7" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-8" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-mvc-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-mvc-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-mvc-3" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-reload" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-async" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-chunked-io" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-gf-async" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-inflector-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-3" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-4" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-5" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-6" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-7" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-params" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-sse-1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-tests" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/spring3" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey-spring/tests/integration/tracing-support" />
+    <file type="web" url="file://$PROJECT_DIR$/../jersey/simple-service-webapp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey/simple-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey/simple-service-webapp/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../jersey-spring/archetypes/jersey-heroku-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/archetypes/jersey-quickstart-grizzly2/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/archetypes/jersey-quickstart-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/archetypes/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/bom/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/bundles/jaxrs-ri/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/bundles/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/bundles/repackaged/jersey-guava/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/bundles/repackaged/jersey-jsr166e/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/bundles/repackaged/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/connectors/apache-connector/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/connectors/grizzly-connector/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/connectors/jetty-connector/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/connectors/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/glassfish/jersey-gf-cdi-ban-custom-hk2-binding/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/glassfish/jersey-gf-cdi/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/glassfish/jersey-gf-ejb/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/glassfish/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/grizzly2-http/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/grizzly2-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/jdk-http/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/jersey-servlet-core/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/jersey-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/jetty-http/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/jetty-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/containers/simple-http/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/core-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/core-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/core-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/assemblies/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/bean-validation-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/bookmark-em/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/bookmark/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/bookstore-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/cdi-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/clipboard-programmatic/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/clipboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/declarative-linking/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/entity-filtering-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/entity-filtering-selectable/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/entity-filtering/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/exception-mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/extended-wadl-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/flight-mgmt-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/freemarker-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/groovy/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/helloworld-programmatic/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/helloworld-pure-jax-rs/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/helloworld-spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/helloworld-spring-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/helloworld-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/http-patch/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/http-trace/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/https-clientserver-grizzly/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/https-server-glassfish/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/jaxb/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/jaxrs-types-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/jersey-ejb/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/json-jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/json-jackson1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/json-jettison/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/json-moxy/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/json-processing-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/json-with-padding/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/managed-beans-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/managed-client-simple-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/managed-client-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/managed-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/monitoring-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/multipart-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/oauth-client-twitter/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/oauth2-client-google-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/additional-bundle/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/alternate-version-bundle/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/functional-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/lib-bundle/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-helloworld-webapp/war-bundle/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-http-service/bundle/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-http-service/functional-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/osgi-http-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/reload/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/rx-client-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/server-async-managed/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/server-async-standalone/client/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/server-async-standalone/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/server-async-standalone/webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/server-async/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/server-sent-events/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/servlet3-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/shortener-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/simple-console/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/sparklines/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/sse-item-store-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/sse-twitter-aggregator/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/system-properties-example/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/tone-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/webapp-example-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/examples/xml-moxy/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/bean-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/entity-filtering/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/metainf-services/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/mvc-bean-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/mvc-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/mvc-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/mvc-mustache/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/proxy-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/servlet-portability/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/spring3/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/ext/wadl-doclet/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/declarative-linking/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/gae-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/html-json/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/rx/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/rx/rx-client-guava/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/rx/rx-client-jsr166e/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/rx/rx-client-rxjava/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/incubator/rx/rx-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/json-jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/json-jackson1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/json-jettison/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/json-processing/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/moxy/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/multipart/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/media/sse/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/security/oauth1-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/security/oauth1-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/security/oauth1-signature/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/security/oauth2-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/security/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/core/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/bundle/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/external/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/grizzly2/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/inmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/jdk-http/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/jetty/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/test-framework/providers/simple/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/e2e-testng/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/e2e/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-ejb-test-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-multipart-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-test-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-with-jersey-injection-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-jax-rs-ear1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-jax-rs-web1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-test-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/j-59-cdi-war/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/j-59-ear/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/j-59-ejb-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1107/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1223/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1604/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1667/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1829/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1928/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1960/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-1964/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2031/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2136/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2137/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2154/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2160/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2164/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2167/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2176/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2184/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2255/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2322/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2335/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2421/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-2551/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/jersey-780/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/portability-jersey-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/portability-jersey-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/property-check/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/security-digest/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-autodiscovery-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-autodiscovery-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-inflector-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-3/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-4/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-5/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-6/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-7/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-init-8/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-mvc-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-mvc-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-mvc-3/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-2.5-reload/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-async/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-chunked-io/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-gf-async/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-inflector-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-3/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-4/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-5/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-6/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-7/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-init-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-params/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-3-sse-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/servlet-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/spring3/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/integration/tracing-support/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/osgi/functional/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/osgi/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/performance/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/performance/test-cases/mbw-parametrized/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/performance/tools/pom.xml" />
+        <option value="$PROJECT_DIR$/../jersey-spring/tests/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

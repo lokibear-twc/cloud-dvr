@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cdi-multipart-webapp:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-multipart-webapp/target</output-path>
+    <root id="archive" name="cdi-multipart-webapp.war">
+      <element id="artifact" artifact-name="cdi-multipart-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

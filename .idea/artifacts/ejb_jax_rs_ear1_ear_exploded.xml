@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ejb-jax-rs-ear1:ear exploded">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-jax-rs-ear1/target/ejb-jax-rs-ear1-2.13-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ejb-jax-rs-ear1/javaeeApplication/JavaEE" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../jersey-spring/tests/integration/ejb-jax-rs-ear1/src/main/application" />
+      <element id="archive" name="ejb-jax-rs-web1-2.13-SNAPSHOT.war">
+        <element id="artifact" artifact-name="ejb-jax-rs-web1:war exploded" />
+      </element>
+      <element id="archive" name="ejb-lib-2.13-SNAPSHOT.jar">
+        <element id="module-output" name="ejb-lib" />
+      </element>
+    </root>
+  </artifact>
+</component>

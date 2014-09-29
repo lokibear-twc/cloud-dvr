@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/../jersey-spring/archetypes/jersey-quickstart-webapp/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../jersey-spring/archetypes/jersey-quickstart-grizzly2/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../jersey-spring/archetypes/jersey-heroku-webapp/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="additional-bundle" />
+        <module name="alternate-version-bundle" />
+        <module name="assemblies" />
+        <module name="bean-validation-webapp" />
+        <module name="bookmark" />
+        <module name="bookmark-em" />
+        <module name="bookstore-webapp" />
+        <module name="bundle" />
+        <module name="cdi-ejb-test-webapp" />
+        <module name="cdi-multipart-webapp" />
+        <module name="cdi-test-webapp" />
+        <module name="cdi-webapp" />
+        <module name="cdi-with-jersey-injection-webapp" />
+        <module name="clipboard" />
+        <module name="clipboard-programmatic" />
+        <module name="cloud-dvr" />
+        <module name="declarative-linking" />
+        <module name="e2e" />
+        <module name="e2e-testng" />
+        <module name="ejb-jax-rs-ear1" />
+        <module name="ejb-jax-rs-web1" />
+        <module name="ejb-lib" />
+        <module name="ejb-test-webapp" />
+        <module name="entity-filtering" />
+        <module name="entity-filtering-security" />
+        <module name="entity-filtering-selectable" />
+        <module name="exception-mapping" />
+        <module name="extended-wadl-webapp" />
+        <module name="flight-management-webapp" />
+        <module name="freemarker-webapp" />
+        <module name="groovy" />
+        <module name="helloworld" />
+        <module name="helloworld-programmatic" />
+        <module name="helloworld-pure-jax-rs" />
+        <module name="helloworld-spring-annotations" />
+        <module name="helloworld-spring-webapp" />
+        <module name="helloworld-webapp" />
+        <module name="html-json" />
+        <module name="http-patch" />
+        <module name="http-trace" />
+        <module name="https-clientserver-grizzly" />
+        <module name="https-server-glassfish" />
+        <module name="j-59-cdi-war" />
+        <module name="j-59-ear" />
+        <module name="j-59-ejb-lib" />
+        <module name="jaxb" />
+        <module name="jaxrs-ri" />
+        <module name="jaxrs-types-injection" />
+        <module name="jersey-1107" />
+        <module name="jersey-1223" />
+        <module name="jersey-1604" />
+        <module name="jersey-1667" />
+        <module name="jersey-1829" />
+        <module name="jersey-1928" />
+        <module name="jersey-1960" />
+        <module name="jersey-1964" />
+        <module name="jersey-2031" />
+        <module name="jersey-2136" />
+        <module name="jersey-2137" />
+        <module name="jersey-2154" />
+        <module name="jersey-2160" />
+        <module name="jersey-2164" />
+        <module name="jersey-2167" />
+        <module name="jersey-2176" />
+        <module name="jersey-2184" />
+        <module name="jersey-2255" />
+        <module name="jersey-2322" />
+        <module name="jersey-2335" />
+        <module name="jersey-2421" />
+        <module name="jersey-2551" />
+        <module name="jersey-780" />
+        <module name="jersey-apache-connector" />
+        <module name="jersey-bean-validation" />
+        <module name="jersey-client" />
+        <module name="jersey-common" />
+        <module name="jersey-container-grizzly2-http" />
+        <module name="jersey-container-grizzly2-servlet" />
+        <module name="jersey-container-jdk-http" />
+        <module name="jersey-container-jetty-http" />
+        <module name="jersey-container-jetty-servlet" />
+        <module name="jersey-container-servlet" />
+        <module name="jersey-container-servlet-core" />
+        <module name="jersey-container-simple-http" />
+        <module name="jersey-declarative-linking" />
+        <module name="jersey-ejb" />
+        <module name="jersey-entity-filtering" />
+        <module name="jersey-gae-integration" />
+        <module name="jersey-gf-cdi" />
+        <module name="jersey-gf-cdi-ban-custom-hk2-binding" />
+        <module name="jersey-gf-ejb" />
+        <module name="jersey-grizzly-connector" />
+        <module name="jersey-guava" />
+        <module name="jersey-heroku-webapp" />
+        <module name="jersey-jetty-connector" />
+        <module name="jersey-jsr166e" />
+        <module name="jersey-media-json-jackson" />
+        <module name="jersey-media-json-jackson1" />
+        <module name="jersey-media-json-jettison" />
+        <module name="jersey-media-json-processing" />
+        <module name="jersey-media-moxy" />
+        <module name="jersey-media-multipart" />
+        <module name="jersey-media-sse" />
+        <module name="jersey-metainf-services" />
+        <module name="jersey-mvc" />
+        <module name="jersey-mvc-bean-validation" />
+        <module name="jersey-mvc-freemarker" />
+        <module name="jersey-mvc-jsp" />
+        <module name="jersey-mvc-mustache" />
+        <module name="jersey-proxy-client" />
+        <module name="jersey-quickstart-grizzly2" />
+        <module name="jersey-quickstart-webapp" />
+        <module name="jersey-rx-client" />
+        <module name="jersey-rx-client-guava" />
+        <module name="jersey-rx-client-jsr166e" />
+        <module name="jersey-rx-client-rxjava" />
+        <module name="jersey-server" />
+        <module name="jersey-servlet-portability" />
+        <module name="jersey-spring3" />
+        <module name="jersey-test-framework-core" />
+        <module name="jersey-test-framework-provider-external" />
+        <module name="jersey-test-framework-provider-grizzly2" />
+        <module name="jersey-test-framework-provider-inmemory" />
+        <module name="jersey-test-framework-provider-jdk-http" />
+        <module name="jersey-test-framework-provider-jetty" />
+        <module name="jersey-test-framework-provider-simple" />
+        <module name="jersey-vanilla" />
+        <module name="jersey-wadl-doclet" />
+        <module name="json-jackson" />
+        <module name="json-jackson1" />
+        <module name="json-jettison" />
+        <module name="json-moxy" />
+        <module name="json-processing-webapp" />
+        <module name="json-with-padding" />
+        <module name="lib-bundle" />
+        <module name="managed-beans-webapp" />
+        <module name="managed-client" />
+        <module name="managed-client-simple-webapp" />
+        <module name="managed-client-webapp" />
+        <module name="mbw-parametrized-test" />
+        <module name="monitoring-webapp" />
+        <module name="multipart-webapp" />
+        <module name="oauth-client-twitter" />
+        <module name="oauth1-client" />
+        <module name="oauth1-server" />
+        <module name="oauth1-signature" />
+        <module name="oauth2-client" />
+        <module name="oauth2-client-google-webapp" />
+        <module name="performance-test-tools" />
+        <module name="portability-jersey-1" />
+        <module name="portability-jersey-2" />
+        <module name="property-check" />
+        <module name="reload" />
+        <module name="rx-client-webapp" />
+        <module name="security-digest" />
+        <module name="server-async" />
+        <module name="server-async-managed" />
+        <module name="server-async-standalone-client" />
+        <module name="server-async-standalone-webapp" />
+        <module name="server-sent-events" />
+        <module name="servlet-2.5-autodiscovery-1" />
+        <module name="servlet-2.5-autodiscovery-2" />
+        <module name="servlet-2.5-inflector-1" />
+        <module name="servlet-2.5-init-1" />
+        <module name="servlet-2.5-init-2" />
+        <module name="servlet-2.5-init-3" />
+        <module name="servlet-2.5-init-4" />
+        <module name="servlet-2.5-init-5" />
+        <module name="servlet-2.5-init-6" />
+        <module name="servlet-2.5-init-7" />
+        <module name="servlet-2.5-init-8" />
+        <module name="servlet-2.5-mvc-1" />
+        <module name="servlet-2.5-mvc-2" />
+        <module name="servlet-2.5-mvc-3" />
+        <module name="servlet-2.5-reload" />
+        <module name="servlet-3-async" />
+        <module name="servlet-3-chunked-io" />
+        <module name="servlet-3-gf-async" />
+        <module name="servlet-3-inflector-1" />
+        <module name="servlet-3-init-1" />
+        <module name="servlet-3-init-2" />
+        <module name="servlet-3-init-3" />
+        <module name="servlet-3-init-4" />
+        <module name="servlet-3-init-5" />
+        <module name="servlet-3-init-6" />
+        <module name="servlet-3-init-7" />
+        <module name="servlet-3-init-provider" />
+        <module name="servlet-3-params" />
+        <module name="servlet-3-sse-1" />
+        <module name="servlet-tests" />
+        <module name="servlet3-webapp" />
+        <module name="shortener-webapp" />
+        <module name="simple-console" />
+        <module name="simple-service" />
+        <module name="simple-service-webapp" />
+        <module name="sparklines" />
+        <module name="spring3" />
+        <module name="sse-item-store-webapp" />
+        <module name="sse-twitter-aggregator" />
+        <module name="system-properties-example" />
+        <module name="tone-generator" />
+        <module name="tracing-support" />
+        <module name="war-bundle" />
+        <module name="xml-moxy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="assemblies" target="1.7" />
+      <module name="bean-validation-webapp" target="1.7" />
+      <module name="bookmark" target="1.7" />
+      <module name="bookmark-em" target="1.7" />
+      <module name="bookstore-webapp" target="1.7" />
+      <module name="cdi-ejb-test-webapp" target="1.7" />
+      <module name="cdi-multipart-webapp" target="1.7" />
+      <module name="cdi-test-webapp" target="1.7" />
+      <module name="cdi-webapp" target="1.7" />
+      <module name="cdi-with-jersey-injection-webapp" target="1.7" />
+      <module name="clipboard" target="1.7" />
+      <module name="clipboard-programmatic" target="1.7" />
+      <module name="cloud-dvr" target="1.7" />
+      <module name="declarative-linking" target="1.7" />
+      <module name="e2e" target="1.7" />
+      <module name="e2e-testng" target="1.7" />
+      <module name="ejb-jax-rs-ear1" target="1.7" />
+      <module name="ejb-jax-rs-web1" target="1.7" />
+      <module name="ejb-lib" target="1.7" />
+      <module name="ejb-test-webapp" target="1.7" />
+      <module name="entity-filtering" target="1.7" />
+      <module name="entity-filtering-security" target="1.7" />
+      <module name="entity-filtering-selectable" target="1.7" />
+      <module name="exception-mapping" target="1.7" />
+      <module name="extended-wadl-webapp" target="1.7" />
+      <module name="flight-management-webapp" target="1.7" />
+      <module name="freemarker-webapp" target="1.7" />
+      <module name="functional-test (1) (org.glassfish.jersey.examples.osgi-helloworld-webapp)" target="1.7" />
+      <module name="functional-test (2) (org.glassfish.jersey.examples.osgi-http-service)" target="1.7" />
+      <module name="groovy" target="1.7" />
+      <module name="helloworld" target="1.7" />
+      <module name="helloworld-programmatic" target="1.7" />
+      <module name="helloworld-pure-jax-rs" target="1.7" />
+      <module name="helloworld-spring-annotations" target="1.7" />
+      <module name="helloworld-spring-webapp" target="1.7" />
+      <module name="helloworld-webapp" target="1.7" />
+      <module name="html-json" target="1.7" />
+      <module name="http-patch" target="1.7" />
+      <module name="http-trace" target="1.7" />
+      <module name="https-clientserver-grizzly" target="1.7" />
+      <module name="https-server-glassfish" target="1.7" />
+      <module name="j-59-cdi-war" target="1.7" />
+      <module name="j-59-ear" target="1.7" />
+      <module name="j-59-ejb-lib" target="1.7" />
+      <module name="jaxb" target="1.7" />
+      <module name="jaxrs-types-injection" target="1.7" />
+      <module name="jersey-1107" target="1.7" />
+      <module name="jersey-1223" target="1.7" />
+      <module name="jersey-1604" target="1.7" />
+      <module name="jersey-1667" target="1.7" />
+      <module name="jersey-1829" target="1.7" />
+      <module name="jersey-1928" target="1.7" />
+      <module name="jersey-1960" target="1.7" />
+      <module name="jersey-1964" target="1.7" />
+      <module name="jersey-2031" target="1.7" />
+      <module name="jersey-2136" target="1.7" />
+      <module name="jersey-2137" target="1.7" />
+      <module name="jersey-2154" target="1.7" />
+      <module name="jersey-2160" target="1.7" />
+      <module name="jersey-2164" target="1.7" />
+      <module name="jersey-2167" target="1.7" />
+      <module name="jersey-2176" target="1.7" />
+      <module name="jersey-2184" target="1.7" />
+      <module name="jersey-2255" target="1.7" />
+      <module name="jersey-2322" target="1.7" />
+      <module name="jersey-2335" target="1.7" />
+      <module name="jersey-2421" target="1.7" />
+      <module name="jersey-2551" target="1.7" />
+      <module name="jersey-780" target="1.7" />
+      <module name="jersey-apache-connector" target="1.7" />
+      <module name="jersey-declarative-linking" target="1.7" />
+      <module name="jersey-ejb" target="1.7" />
+      <module name="jersey-gae-integration" target="1.7" />
+      <module name="jersey-grizzly-connector" target="1.7" />
+      <module name="jersey-heroku-webapp" target="1.7" />
+      <module name="jersey-jetty-connector" target="1.7" />
+      <module name="jersey-quickstart-grizzly2" target="1.7" />
+      <module name="jersey-quickstart-webapp" target="1.7" />
+      <module name="jersey-rx-client" target="1.7" />
+      <module name="jersey-rx-client-guava" target="1.7" />
+      <module name="jersey-rx-client-jsr166e" target="1.7" />
+      <module name="jersey-rx-client-rxjava" target="1.7" />
+      <module name="jersey-servlet-portability" target="1.7" />
+      <module name="jersey-spring3" target="1.7" />
+      <module name="jersey-test-framework-core" target="1.7" />
+      <module name="jersey-test-framework-provider-external" target="1.7" />
+      <module name="jersey-test-framework-provider-grizzly2" target="1.7" />
+      <module name="jersey-test-framework-provider-inmemory" target="1.7" />
+      <module name="jersey-test-framework-provider-jdk-http" target="1.7" />
+      <module name="jersey-test-framework-provider-jetty" target="1.7" />
+      <module name="jersey-test-framework-provider-simple" target="1.7" />
+      <module name="jersey-tests-osgi-functional" target="1.7" />
+      <module name="jersey-vanilla" target="1.7" />
+      <module name="jersey-wadl-doclet" target="1.7" />
+      <module name="json-jackson" target="1.7" />
+      <module name="json-jackson1" target="1.7" />
+      <module name="json-jettison" target="1.7" />
+      <module name="json-moxy" target="1.7" />
+      <module name="json-processing-webapp" target="1.7" />
+      <module name="json-with-padding" target="1.7" />
+      <module name="managed-beans-webapp" target="1.7" />
+      <module name="managed-client" target="1.7" />
+      <module name="managed-client-simple-webapp" target="1.7" />
+      <module name="managed-client-webapp" target="1.7" />
+      <module name="mbw-parametrized-test" target="1.7" />
+      <module name="monitoring-webapp" target="1.7" />
+      <module name="multipart-webapp" target="1.7" />
+      <module name="oauth-client-twitter" target="1.7" />
+      <module name="oauth1-client" target="1.7" />
+      <module name="oauth1-server" target="1.7" />
+      <module name="oauth1-signature" target="1.7" />
+      <module name="oauth2-client" target="1.7" />
+      <module name="oauth2-client-google-webapp" target="1.7" />
+      <module name="performance-test-tools" target="1.7" />
+      <module name="portability-jersey-1" target="1.7" />
+      <module name="portability-jersey-2" target="1.7" />
+      <module name="property-check" target="1.7" />
+      <module name="reload" target="1.7" />
+      <module name="rx-client-webapp" target="1.7" />
+      <module name="security-digest" target="1.7" />
+      <module name="server-async" target="1.7" />
+      <module name="server-async-managed" target="1.7" />
+      <module name="server-async-standalone-client" target="1.7" />
+      <module name="server-async-standalone-webapp" target="1.7" />
+      <module name="server-sent-events" target="1.7" />
+      <module name="servlet-2.5-autodiscovery-1" target="1.7" />
+      <module name="servlet-2.5-autodiscovery-2" target="1.7" />
+      <module name="servlet-2.5-inflector-1" target="1.7" />
+      <module name="servlet-2.5-init-1" target="1.7" />
+      <module name="servlet-2.5-init-2" target="1.7" />
+      <module name="servlet-2.5-init-3" target="1.7" />
+      <module name="servlet-2.5-init-4" target="1.7" />
+      <module name="servlet-2.5-init-5" target="1.7" />
+      <module name="servlet-2.5-init-6" target="1.7" />
+      <module name="servlet-2.5-init-7" target="1.7" />
+      <module name="servlet-2.5-init-8" target="1.7" />
+      <module name="servlet-2.5-mvc-1" target="1.7" />
+      <module name="servlet-2.5-mvc-2" target="1.7" />
+      <module name="servlet-2.5-mvc-3" target="1.7" />
+      <module name="servlet-2.5-reload" target="1.7" />
+      <module name="servlet-3-async" target="1.7" />
+      <module name="servlet-3-chunked-io" target="1.7" />
+      <module name="servlet-3-gf-async" target="1.7" />
+      <module name="servlet-3-inflector-1" target="1.7" />
+      <module name="servlet-3-init-1" target="1.7" />
+      <module name="servlet-3-init-2" target="1.7" />
+      <module name="servlet-3-init-3" target="1.7" />
+      <module name="servlet-3-init-4" target="1.7" />
+      <module name="servlet-3-init-5" target="1.7" />
+      <module name="servlet-3-init-6" target="1.7" />
+      <module name="servlet-3-init-7" target="1.7" />
+      <module name="servlet-3-init-provider" target="1.7" />
+      <module name="servlet-3-params" target="1.7" />
+      <module name="servlet-3-sse-1" target="1.7" />
+      <module name="servlet-tests" target="1.7" />
+      <module name="servlet3-webapp" target="1.7" />
+      <module name="shortener-webapp" target="1.7" />
+      <module name="simple-console" target="1.7" />
+      <module name="simple-service" target="1.7" />
+      <module name="simple-service-webapp" target="1.7" />
+      <module name="sparklines" target="1.7" />
+      <module name="spring3" target="1.7" />
+      <module name="sse-item-store-webapp" target="1.7" />
+      <module name="sse-twitter-aggregator" target="1.7" />
+      <module name="system-properties-example" target="1.7" />
+      <module name="tone-generator" target="1.7" />
+      <module name="tracing-support" target="1.7" />
+      <module name="xml-moxy" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
+

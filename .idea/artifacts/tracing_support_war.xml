@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tracing-support:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/tracing-support/target</output-path>
+    <root id="archive" name="tracing-support-2.13-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tracing-support:war exploded" />
+    </root>
+  </artifact>
+</component>

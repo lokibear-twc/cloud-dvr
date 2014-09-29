@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="managed-beans-webapp:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/managed-beans-webapp/target</output-path>
+    <root id="archive" name="managed-beans-webapp.war">
+      <element id="artifact" artifact-name="managed-beans-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

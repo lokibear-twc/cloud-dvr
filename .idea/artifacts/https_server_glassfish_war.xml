@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="https-server-glassfish:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/https-server-glassfish/target</output-path>
+    <root id="archive" name="https-server-glassfish.war">
+      <element id="artifact" artifact-name="https-server-glassfish:war exploded" />
+    </root>
+  </artifact>
+</component>

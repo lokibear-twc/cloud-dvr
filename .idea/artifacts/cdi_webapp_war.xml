@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cdi-webapp:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/cdi-webapp/target</output-path>
+    <root id="archive" name="cdi-webapp.war">
+      <element id="artifact" artifact-name="cdi-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

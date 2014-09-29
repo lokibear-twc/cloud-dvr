@@ -1,0 +1,63 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rx-client-webapp:war exploded">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/rx-client-webapp/target/rx-client-webapp</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="rx-client-webapp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rx-client-webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="jersey-container-servlet-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-container-servlet" />
+          </element>
+          <element id="archive" name="jersey-container-servlet-core-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-container-servlet-core" />
+          </element>
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:javax.inject:2.3.0-b10" />
+          <element id="archive" name="jersey-common-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-common" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.ws.rs:javax.ws.rs-api:2.0.1" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="archive" name="jersey-guava-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-guava" />
+          </element>
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-api:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-utils:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:aopalliance-repackaged:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-locator:2.3.0-b10" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.18.1-GA" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:osgi-resource-locator:1.0.1" />
+          <element id="archive" name="jersey-server-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-server" />
+          </element>
+          <element id="archive" name="jersey-client-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-client" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
+          <element id="archive" name="jersey-rx-client-guava-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-rx-client-guava" />
+          </element>
+          <element id="archive" name="jersey-rx-client-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-rx-client" />
+          </element>
+          <element id="library" level="project" name="Maven: com.google.guava:guava:14.0.1" />
+          <element id="archive" name="jersey-rx-client-rxjava-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-rx-client-rxjava" />
+          </element>
+          <element id="library" level="project" name="Maven: com.netflix.rxjava:rxjava-core:0.20.4" />
+          <element id="archive" name="jersey-media-json-jackson-2.13-SNAPSHOT.jar">
+            <element id="module-output" name="jersey-media-json-jackson" />
+          </element>
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.3.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.3.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.3.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.3.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

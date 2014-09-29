@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cdi-ejb-test-webapp:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/tests/integration/cdi-ejb-test-webapp/target</output-path>
+    <root id="archive" name="cdi-ejb-test-webapp.war">
+      <element id="artifact" artifact-name="cdi-ejb-test-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

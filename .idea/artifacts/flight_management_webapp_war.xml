@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="flight-management-webapp:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/flight-mgmt-webapp/target</output-path>
+    <root id="archive" name="flight-management-webapp.war">
+      <element id="artifact" artifact-name="flight-management-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

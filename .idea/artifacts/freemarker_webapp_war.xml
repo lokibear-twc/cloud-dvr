@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="freemarker-webapp:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/freemarker-webapp/target</output-path>
+    <root id="archive" name="freemarker-webapp.war">
+      <element id="artifact" artifact-name="freemarker-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

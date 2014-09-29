@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="server-async-standalone-webapp:war">
+    <output-path>$PROJECT_DIR$/../jersey-spring/examples/server-async-standalone/webapp/target</output-path>
+    <root id="archive" name="server-async-standalone-webapp.war">
+      <element id="artifact" artifact-name="server-async-standalone-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
